@@ -1,0 +1,18 @@
+# 哈佛大学公开课：计算机科学cs50
+http://v.163.com/special/opencourse/cs50.html
+# Blender基金会公开课：钢之殇
+http://v.163.com/special/opencourse/steel.html
+# 麻省理工学院公开课：算法导论
+http://v.163.com/special/opencourse/algorithms.html
+# 哈佛大学公开课：构建动态网站
+http://v.163.com/special/opencourse/buildingdynamicwebsites.html
+# 麻省理工公开课：创新与发明
+http://v.163.com/special/opencourse/innovation.html
+# 可汗学院公开课：计算机科学
+http://v.163.com/special/Khan/computer.html
+# 密西西比河谷州立大学：Android应用程序开发
+http://v.163.com/special/opencourse/developingandroidapplications.html
+# 斯坦福大学公开课:用网页技术开发手机应用
+http://v.163.com/special/opencourse/developing.html 
+# 斯坦福大学公开课：人与计算机的互动
+http://v.163.com/special/opencourse/humancomputer.html

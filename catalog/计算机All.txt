@@ -1,0 +1,230 @@
+# 【TED】设计之路
+# http://v.163.com/movie/2008/12/V/R/M7P75T1MH_M7P75VOVR.html
+# 【TED】巧妙地观察人类
+# http://v.163.com/movie/2011/6/8/H/M7929LSTQ_M792A9M8H.html
+# 一只猴子用意念控制一个机器人
+# http://v.163.com/movie/2013/12/C/6/M9DRT6N32_M9ED48JC6.html
+# 北京理工大学公开课：信息系统与安全对抗理论
+# http://v.163.com/special/cuvocw/xitonganquan.html 
+# 【TED】未来的网络创新
+# http://v.163.com/movie/2007/4/5/0/M7SOSTD95_M7SOT1150.html
+# 【TED】谈网络匿名
+# http://v.163.com/movie/2012/1/8/3/M78FVMQTK_M78FVT183.html
+# 【TED】用超级计算机构造大脑
+# http://v.163.com/movie/2011/7/K/2/M7A12OCLQ_M7A132PK2.html
+# 乔布斯辞职前最后一次公开演讲
+http://v.163.com/movie/2013/8/C/B/M955KO0VC_M955M4GCB.html
+# 在线视频：详尽，混编，实时
+# http://v.163.com/movie/2013/12/P/N/M9DRPEUKV_M9E8FJEPN.html
+#  从机器人那里学来的做人的四课
+# http://v.163.com/movie/2013/8/E/2/M94TRPLDU_M94TRV3E2.html
+# 有“灵魂”的机器人
+# http://v.163.com/movie/2014/3/H/U/M9KC8NGGV_M9KH5ICHU.html
+# 哈佛大学公开课：2006年计算机科学
+# http://v.163.com/special/sp/computerscience2006.html
+# 将OLPC带至哥伦比亚
+# http://v.163.com/movie/2012/1/C/P/M7OVEJC3M_M7OVF0PCP.html
+# 大家的科学，儿童亦然
+# http://v.163.com/movie/2013/12/T/R/M9DRQBHK9_M9E8FQ8TR.html
+# 哈佛大学公开课：2005年计算机科学
+# http://v.163.com/special/sp/computerscience2005.html
+# 【TED】游戏创造美好生活
+# http://v.163.com/movie/2011/7/M/G/M7AQ832D9_M7AQHAHMG.html
+# 4D打印机的诞生
+# http://v.163.com/movie/2013/2/I/K/M8VTVJLEG_M8VTVM6IK.html
+# 华南理工大学公开课：计算机网络安全
+# http://v.163.com/special/cuvocw/jisuanjiwangluoanquan.html
+# 【TED】讲述火星车
+# http://v.163.com/movie/2010/6/P/D/M90LDGJO5_M90LDM9PD.html
+# 斯坦福大学公开课：iPad和iPhone应用开发&#040;iOS5&#041;
+http://v.163.com/special/opencourse/ipadandiphoneapplication.html
+# 斯坦福大学公开课：编程范式
+http://v.163.com/special/opencourse/paradigms.html
+# 我如何建造出信息时间旅行机器
+# http://v.163.com/movie/2014/3/L/Q/M9KC8BCV4_M9KH408LQ.html
+# 罗德尼·布鲁克斯: 我们为什么要找机器人帮忙？
+# http://v.163.com/movie/2013/11/9/5/M9C2SL6Q2_M9C2SRV95.html
+# 因特网，究竟是什么？
+# http://v.163.com/movie/2013/12/P/A/M9DRP6PT2_M9E87P3PA.html
+# 我的水下机器人
+# http://v.163.com/movie/2014/2/H/8/M9HKSSNAU_M9HNB7GH8.html
+# 泽佛兰克的网络游戏室
+# http://v.163.com/movie/2010/10/R/6/M78DDF89H_M78DDMUR6.html
+# 自组织式计算机课程
+# http://v.163.com/movie/2013/12/8/P/M9DROTNG5_M9E87808P.html
+# 【TED】新一代数字图书
+# http://v.163.com/movie/2011/6/I/K/M76SV33EF_M779E1PIK.html
+# 【TED】计算机的诞生
+# http://v.163.com/movie/2012/1/2/F/M7SMFM3N7_M7SMG442F.html
+# 约尔·塞拉尼科: 令人惊讶的医疗保健大数据革新开端
+# http://v.163.com/movie/2013/11/4/C/M9C2UF1E9_M9C2ULL4C.html
+# 拉筹伯大学：新闻人的网络编辑和发布
+http://v.163.com/special/opencourse/webpublishing.html 
+# 斯坦福大学公开课 ：机器学习课程
+http://v.163.com/special/opencourse/machinelearning.html
+# 信息就是食物
+# http://v.163.com/movie/2013/9/6/P/M97FP1T9T_M9G12F56P.html
+# 【TED】神奇的洗衣机
+# http://v.163.com/movie/2011/7/Q/G/M77U5F910_M77U5K6QG.html
+# 科技如何让我阅读
+# http://v.163.com/movie/2014/3/N/9/M9KC5BAUK_M9KGRPEN9.html
+# 科技能够解决我们的大问题吗？
+# http://v.163.com/movie/2014/2/H/G/M9HHISSON_M9HN5GNHG.html
+# 梅丽莎·马歇尔：跟我说说高科技
+# http://v.163.com/movie/2013/12/S/8/M9DRQIHL2_M9E8G1TS8.html
+# 哈佛大学公开课：计算机科学cs50
+http://v.163.com/special/opencourse/cs50.html
+# 四旋翼直升机的惊人运动机能
+# http://v.163.com/movie/2013/6/K/4/M90KU15HG_M90KUKOK4.html
+# Blender基金会公开课：钢之殇
+http://v.163.com/special/opencourse/steel.html
+# 让我们教孩子编码吧
+# http://v.163.com/movie/2013/3/H/I/M92389L06_M9238GTHI.html
+# 巴顿的脸的由来
+# http://v.163.com/movie/2009/2/Q/T/M7JTJAB8T_M7JTJPEQT.html
+# 斯坦福大学公开课：iPhone开发教程2010年冬
+http://v.163.com/special/opencourse/iphonekaifa.html
+# 廉价的全地形轮椅
+# http://v.163.com/movie/2013/12/7/T/M9DRS6MIV_M9E8GGA7T.html
+# 纽约大学公开课：Google vs Apple谁会笑到最后？
+http://v.163.com/special/opencourse/googlevsapple.html
+# 电子科技大学公开课：通信传奇
+# http://v.163.com/special/cuvocw/tongxinchuanqi.html
+# 河北工程大学公开课：心连“芯”的思维之旅
+# http://v.163.com/special/cuvocw/xinlianxin.html
+# 【TED】软件工程（用于）艺术
+# http://v.163.com/movie/2007/4/I/H/M7SMH6L0D_M7SMH90IH.html
+# 为女孩制作数码游戏
+http://v.163.com/movie/2011/11/J/V/M7J6F0Q1G_M7J6NSNJV.html
+# 未来的赛车：每小时150英里且没有司机
+# http://v.163.com/movie/2014/1/Q/F/M9G1B44FR_M9G3PQIQF.html
+# 麻省理工学院公开课：算法导论
+http://v.163.com/special/opencourse/algorithms.html
+# 【TED】追踪你的跟踪者
+# http://v.163.com/movie/2012/5/N/7/M8VRRNOQT_M8VRRQHN7.html
+# 【TED】Misha Glenny:雇佣黑客
+# http://v.163.com/movie/2013/4/A/V/M8SKNATKB_M8SKNF2AV.html
+# 哈佛大学公开课：构建动态网站
+http://v.163.com/special/opencourse/buildingdynamicwebsites.html
+# 【TED】用每一个灯泡传输无线信号
+# http://v.163.com/movie/2011/8/5/P/M84Q05PLI_M84Q08V5P.html
+# 开放世界的四原则
+# http://v.163.com/movie/2014/1/T/J/M9G1A515T_M9G3P9PTJ.html
+# BRCK，一个为非洲而造的连网方式
+# http://v.163.com/movie/2013/11/K/U/M9C2T8HGF_M9C2TBEKU.html
+# 用计算机教孩子真正的数学
+# http://v.163.com/movie/2010/11/J/1/M77TH78HU_M78B4KQJ1.html
+# 基于智能手机的迷你机器人
+# http://v.163.com/movie/2013/3/Q/M/M9239L2Q1_M9239PCQM.html
+# 中国人民解放军理工大学公开课：走近移动通信
+# http://v.163.com/special/cuvocw/yidongtongxin.html
+# 哈佛大学公开课：计算机科学导论
+# http://v.163.com/special/lectureroncomputerscience/
+# 麻省理工公开课：创新与发明
+http://v.163.com/special/opencourse/innovation.html
+# 中南大学公开课：人工智能PK人类智能
+# http://v.163.com/special/cuvocw/rengongzhineng.html
+# 进入计算机的“真实”世界，发挥你无穷的想象力 
+# http://v.163.com/movie/2013/10/F/9/M9AI41S7L_M9AI4A6F9.html
+# 【TED】一种会思考的玩具
+# http://v.163.com/movie/2009/2/C/G/M7OVDBGIL_M7OVDT9CG.html
+# 斯坦福大学公开课：抽象编程
+http://v.163.com/special/opencourse/abstractions.html
+# 【TED】人机合作的崛起
+# http://v.163.com/movie/2012/7/C/B/M92TD3G7N_M92TDAFCB.html
+# 加州理工学院公开课：机器学习与数据挖掘
+http://v.163.com/special/opencourse/learningfromdata.html
+# 【TED】即时扫描大脑的技术
+# http://v.163.com/movie/2008/5/F/L/M7RKRDLSJ_M7RMUA2FL.html
+# 可引发增强现实的图像识别
+# http://v.163.com/movie/2014/1/P/P/M9G1AT2SH_M9G3QBNPP.html
+# 猴子用意念控制机器人
+# http://v.163.com/movie/2012/12/N/0/M9238RMGM_M92394DN0.html
+# 麻省理工学院公开课：计算机科学及编程导论
+http://v.163.com/special/opencourse/bianchengdaolun.html
+# 演示“第六感”
+# http://v.163.com/movie/2009/3/C/G/M7JTGVJ8G_M7JTHBICG.html
+# 编码改善更好的政府
+# http://v.163.com/movie/2014/2/F/G/M9HHG3EEM_M9HMLRIFG.html
+# 美国如何出卖了世界？——采取行动的时候到了
+# http://v.163.com/movie/2014/3/M/E/M9KC74FC1_M9KGUACME.html
+# 绝妙样机
+# http://v.163.com/special/ted10collection/
+# 可汗学院公开课：计算机科学
+http://v.163.com/special/Khan/computer.html
+# 电子科技大学公开课：网络时代的信息安全
+# http://v.163.com/special/cuvocw/xinxianquan.html 
+# 如何用方程式赛车帮助…婴儿？
+# http://v.163.com/movie/2014/3/O/7/M9KC4UCN3_M9KESJ8O7.html
+# 生活在“数字当下”
+# http://v.163.com/movie/2014/2/6/K/M9HKRDUF3_M9HN9HM6K.html
+# 【TED】来自谷歌的无人驾驶汽车
+# http://v.163.com/movie/2011/7/L/F/M77TR2A13_M77TR9ELF.html
+# 互联网搜索的未来：意图、知识和互动
+http://v.163.com/movie/2014/1/M/A/M9H4TL7ST_M9H4U69MA.html
+# 构筑“云端学院”
+# http://v.163.com/movie/2013/12/S/F/M9E8DGG7A_M9ED8AVSF.html
+# 【TED】车水马龙的明天
+# http://v.163.com/movie/2013/2/T/F/M8VRO29P1_M8VRO6JTF.html
+# 推特小说的冒险
+# http://v.163.com/movie/2014/2/9/T/M9HHVP29J_M9HN5SC9T.html
+# 密西西比河谷州立大学：Android应用程序开发
+http://v.163.com/special/opencourse/developingandroidapplications.html
+# 舞动吧，小机器人们！
+# http://v.163.com/movie/2013/3/I/8/M92TGSF8J_M92TH2JI8.html
+# 【TED】动态化人物面部表情捕捉
+# http://v.163.com/movie/2012/1/R/J/M7A110TI0_M7A117IRJ.html
+# 【TED】大脑研究将改变计算机科学
+# http://v.163.com/movie/2007/5/4/2/M7SOTK1GB_M7SOTMO42.html
+# 【TED】数据化的自我
+# http://v.163.com/movie/2011/7/Q/L/M77H4NSR3_M77H72JQL.html
+# 太原理工大学公开课：面向对象编程思想概览
+# http://v.163.com/special/cuvocw/mianxiangduixiangbiancheng.html
+# 打印你自己的药物
+# http://v.163.com/movie/2013/4/7/4/M92TGNM2V_M92TGPB74.html
+# 演示为地图增加现实内容
+# http://v.163.com/movie/2011/7/G/2/M7AO83HNC_M7AO87RG2.html
+# 中国地质大学（武汉）公开课：人形机器人设计与制作
+# http://v.163.com/special/cuvocw/renxingjiqiren.html
+# 斯坦福大学公开课：编程方法学
+http://v.163.com/special/sp/programming.html 
+# 伟大预言
+# http://v.163.com/special/ted10collection/
+# 【TED】谷歌创始人展示谷歌眼镜
+# http://v.163.com/movie/2013/4/S/V/M8VU1HC4K_M8VU1OJSV.html
+# 南华大学公开课：计算思维漫谈——感悟数字化生存的智慧
+# http://v.163.com/special/cuvocw/shuzihuashengcun.html
+# 斯坦福大学公开课:用网页技术开发手机应用
+http://v.163.com/special/opencourse/developing.html 
+# 图示值得传播的思想
+# http://v.163.com/movie/2014/3/C/9/M9KC61CT5_M9KGT5UC9.html
+# 斯坦福大学公开课：人与计算机的互动
+http://v.163.com/special/opencourse/humancomputer.html
+# 【TED】互联网将如何（在某一天）转变政府
+# http://v.163.com/movie/2012/8/F/J/M92TCOMDO_M92TD5FFJ.html
+# 你的网络踪迹将伴随你终生
+# http://v.163.com/movie/2013/3/T/P/M923A4RIM_M923AAOTP.html
+# 【TED】联系互动的海洋
+# http://v.163.com/movie/2012/1/4/N/M78G821QT_M78G8894N.html
+# 大型在线共同创作
+# http://v.163.com/movie/2011/7/U/3/M92193DTQ_M92199PU3.html
+# 埃里克·惠特克：网络虚拟合唱团
+# http://v.163.com/movie/2013/12/9/J/M9E8I6FSQ_M9ED9149J.html
+# 魅力乔布斯之演讲技巧
+http://v.163.com/movie/2013/8/B/A/M955LEP6S_M955M7HBA.html
+# 【TED】网络究竟是什么
+# http://v.163.com/movie/2013/2/5/E/M8VTNEFEL_M8VTNH25E.html
+# 为人类服务的机器人
+# http://v.163.com/movie/2014/2/R/M/M9HKSDDNL_M9HNAF4RM.html
+# 斯坦福大学公开课：iOS 7应用开发
+http://v.163.com/special/opencourse/ios7.html
+# 【TED】印度的无形创新
+# http://v.163.com/movie/2012/6/Q/I/M92TAKSSQ_M92TARIQI.html
+# 乔布斯：遗失的访谈（1995）
+http://v.163.com/movie/2013/5/N/R/M8TBJIK7D_M8TBLIINR.html
+# 【TED】Pivot浏览器是网络探索的转折点吗？
+# http://v.163.com/movie/2011/7/E/5/M7B9KU9AM_M7BA94VE5.html
+# 【TED】游览全息投影球
+# http://v.163.com/movie/2012/1/8/I/M7H0VFTP6_M7H0VNK8I.html
+# 如何“手绘”电路
+# http://v.163.com/movie/2013/12/6/J/M9DRQMCBD_M9E8G666J.html
