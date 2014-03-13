@@ -87,7 +87,7 @@ if __name__ == '__main__':
 	lists += open('Catalog/文学List.txt').read().split('\n')
 	lists += open('Catalog/管理List.txt').read().split('\n')
 	'''
-	# lists = ['http://v.163.com/special/opencourse/cancerprevention.html']
+	lists = ['http://v.163.com/special/opencourse/cancerprevention.html']
 
 	#  Get Download URLs 
 	targets = {}
