@@ -98,15 +98,11 @@ if __name__ == '__main__':
 		targets = dict(targets,**target)
 
 	# Start Concurrent Download
-	count = 0
-	countall = len(targets)
 	print
 	print 'Download Start.'
 	pool = multiprocessing.Pool(processes=10) # MultiProcessor
 	for fname in targets:
 		pool.apply_async(download,(fname,targets[fname],))
-		count += 1
-		print 'Progess:', count, '/', countall 
 	pool.close()
 	pool.join()
 	print 'Download End.'
