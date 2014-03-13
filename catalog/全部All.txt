@@ -665,7 +665,7 @@ http://v.163.com/special/opencourse/americanliterature.html
 # 【TED】我们是如何发现DNA的
 # http://v.163.com/movie/2012/1/U/9/M8CULAV8F_M8CUM0RU9.html
 # 麻省理工学院公开课：经典力学
-# http://v.163.com/special/opencourse/classicalmechanics.html
+http://v.163.com/special/opencourse/classicalmechanics.html
 # 世界末日
 # http://v.163.com/movie/2013/5/1/N/M8TEIONOV_M8TEJ291N.html
 # 上海交通大学医学院公开课：妇科常见肿瘤的预防和治疗
@@ -3376,4 +3376,363 @@ http://v.163.com/special/opencourse/exceptional.html
 # http://v.163.com/movie/2011/7/G/0/M78GAP0JC_M78GB05G0.html
 # 【TED】可爱，性感，甜，搞笑
 # http://v.163.com/movie/2009/3/K/6/M7JTILCE7_M7JTINGK6.html
-# 河
+# 河北科技大学公开课：人生价值与大学生成长成才
+# http://v.163.com/special/cuvocw/renshengjiazhi.html
+# 网易公开课独家专访桑德尔
+# http://v.163.com/special/sandel2012/
+# 山东大学公开课：大学生性健康修养
+# http://v.163.com/special/cuvocw/daxueshengxingjiankang.html
+# 保罗. 尼克伦：冰天雪地的童话世界 
+# http://v.163.com/movie/2013/10/R/F/M9AHMPTER_M9AHMT2RF.html
+# 首都师范大学公开课：20世纪国际关系的历史
+# http://v.163.com/special/cuvocw/guojiguanxi.html
+# 麻省理工学院公开课：单变量微积分
+http://v.163.com/special/sp/singlevariablecalculus.html
+# 【TED】怎样从错误中学习
+# http://v.163.com/movie/2011/7/7/J/M77999JJU_M779EVI7J.html
+# 武汉大学公开课：唐诗艺术
+# http://v.163.com/special/cuvocw/tangshiyishu.html
+# 【TED】HIV 和流感—疫苗策略
+# http://v.163.com/movie/2012/1/S/5/M78DJEJTK_M78DJKUS5.html
+# 如何将艺术教育和科学教育合二为一
+# http://v.163.com/movie/2010/6/D/3/M90LG2SSU_M90LG93D3.html
+# 进入计算机的“真实”世界，发挥你无穷的想象力 
+# http://v.163.com/movie/2013/10/F/9/M9AI41S7L_M9AI4A6F9.html
+# 我们能够避免老化
+# http://v.163.com/movie/2014/3/I/H/M9L5PDH1I_M9L5PJCIH.html
+# 关于睡眠你应该知道的十件事
+# http://v.163.com/movie/2013/5/V/Q/M8TDTH9BJ_M8TE2FFVQ.html
+# 上海外国语大学公开课：日本近代文学家名著导读
+# http://v.163.com/special/cuvocw/ribenjindaiwenxue.html
+# 【TED】学校扼杀创造力
+# http://v.163.com/movie/2006/2/V/E/M7SP3QUET_M7SP3T0VE.html
+# 厌恶情感中的奇怪政治
+# http://v.163.com/movie/2013/8/T/N/M957HMMS1_M957HT0TN.html
+# 一个你闻所未闻的口哨者 
+# http://v.163.com/movie/2013/10/R/S/M9AHM1HA7_M9AHM40RS.html
+# 加州大学洛杉矶分校公开课：神经外科学的100个话题
+http://v.163.com/special/opencourse/neurosurgery.html 
+# 北京语言大学公开课：中国现当代女性文学专题
+# http://v.163.com/special/cuvocw/dangdainvxingwenxue.html
+# 麻省理工学院公开课：计算机科学及编程导论
+http://v.163.com/special/opencourse/bianchengdaolun.html
+# 吉林大学公开课：健康呼吸——让“生命之树”长青
+# http://v.163.com/special/cuvocw/shengmingzhishu.html
+# TED大会中文概述
+# http://v.163.com/movie/2013/3/T/B/M8NV4PTKT_M8NV503TB.html
+# 构筑“云端学院”
+# http://v.163.com/movie/2013/12/S/F/M9E8DGG7A_M9ED8AVSF.html
+# 寻找真理
+# http://v.163.com/special/ted10collection/
+# 线结和外科医生的故事
+# http://v.163.com/movie/2013/12/H/Q/M9DROPLPD_M9E872VHQ.html
+# 让人惊奇的对陌生感的需求 
+# http://v.163.com/movie/2013/10/O/3/M9AI373C6_M9AI390O3.html
+# 乔斯·韦登卫斯理大学2013届毕业典礼演讲
+# http://v.163.com/special/openclass/speech.html
+# 《开讲啦》王力宏：梦想造就软实力
+http://v.163.com/movie/2013/5/8/A/M8T94LK89_M8T95048A.html
+# 亚利桑那大学公开课：知识产权
+http://v.163.com/special/opencourse/intellectualproperty.html
+# 伟谷州立大学公开课：LGBT大会
+http://v.163.com/special/opencourse/lgbt.html
+# 【TED】通过公众参与来实现人的精神健康
+# http://v.163.com/movie/2012/6/6/O/M92TD89NF_M92TDEB6O.html
+# 国立台湾大学公开课：音乐、演化与大脑
+http://v.163.com/special/ntu/yinyueyanhua.html
+# 疼痛的秘密
+# http://v.163.com/movie/2013/5/A/M/M8TGS9I48_M8TH090AM.html
+# 如何欺骗一个GPS
+# http://v.163.com/movie/2013/5/T/T/M92TATR6C_M92TB4KTT.html
+# 安吉拉·巴顿：父女之舞…在狱中 
+# http://v.163.com/movie/2013/10/H/V/M9AHVNELA_M9BM9JFHV.html
+# 斯坦福大学公开课：傅里叶变换及其应用
+http://v.163.com/special/opencourse/fouriertransforms.html
+# 中山大学公开课：逻辑学导引
+# http://v.163.com/special/cuvocw/luojixue.html
+# 中南财经政法大学公开课：知识创新、知识经济与知识产权
+# http://v.163.com/special/cuvocw/zhishichanquan.html
+# 深圳大学公开课：中国民间图形艺术
+# http://v.163.com/special/cuvocw/minjiantuxing.html
+# 伟大预言
+# http://v.163.com/special/ted10collection/
+# 疯狂音乐科学家
+# http://v.163.com/movie/2013/8/F/V/M94U1GKH3_M94U1MSFV.html
+# 关于贪腐的三个迷思
+# http://v.163.com/movie/2013/12/L/D/M9E8CUBHC_M9ED57HLD.html
+# 【TED】土星的卫星可以孕育生命么？
+# http://v.163.com/movie/2011/7/I/A/M7H16B5FU_M7H16HVIA.html
+# 可汗学院公开课：GMAT考试问题解答（数学）
+http://v.163.com/special/Khan/gmatproblemsolving.html
+# 吉林大学公开课：中国传统处世智慧概说
+# http://v.163.com/special/cuvocw/zhongguochuantongchushizhihui.html
+# 一次教一个孩子
+# http://v.163.com/movie/2011/7/3/3/M7AT99H0J_M7ATB8R33.html
+# 查理·邓森犹他州立大学2013年毕业演讲
+# http://v.163.com/special/openclass/speech.html
+# 伟谷州立大学公开课：亚伯拉罕·林肯两百周年纪念
+http://v.163.com/special/opencourse/abrahamlincoln.html
+# 面对灾难
+http://v.163.com/movie/2013/12/3/L/M9FRQC5R2_M9FU5F83L.html
+# 北京大学公开课：文化兴国-欧洲由衰及兴的转折点
+# http://v.163.com/special/cuvocw/wenhuaxingguo.html
+# 坂茂: 纸制的应急避难所
+# http://v.163.com/movie/2013/11/D/P/M9C552KT5_M9C557TDP.html
+# 【TED】联系互动的海洋
+# http://v.163.com/movie/2012/1/4/N/M78G821QT_M78G8894N.html
+# 可汗学院创始人：用视频再造教育
+http://v.163.com/movie/2011/7/C/6/M77ESEJF8_M77ESRDC6.html
+# 巴黎高等商学院公开课：第二届金融与统计学大会
+http://v.163.com/special/opencourse/2ndhec.html
+# 哈佛大学公开课：头脑战争
+http://v.163.com/special/opencourse/mindatwar.html
+# 新西兰国立南方理工学院公开课：英语强化课程I
+http://v.163.com/special/opencourse/englishs1.html
+# 心理学：探究幸福 
+http://v.163.com/special/psychology/
+# 可汗学院公开课：算术与代数预备课程：数的性质
+http://v.163.com/special/Khan/number.html
+# 耶鲁大学公开课：美国独立战争
+http://v.163.com/special/opencourse/americanrevolution.html
+# 带加速器的滑板
+# http://v.163.com/movie/2013/3/E/K/M9239GO8C_M9239P0EK.html
+# 复旦大学公开课：西方马克思主义早期代表人物思想研究
+# http://v.163.com/special/cuvocw/makesizhuyi.html
+# 讲解电击疗法：如何改变了我？
+# http://v.163.com/movie/2012/1/E/B/M8QJMGS9D_M8QJMOIEB.html
+# 武汉大学公开课：走进测绘殿堂
+# http://v.163.com/special/cuvocw/cehuidiantang.html
+# 长江大学公开课：透视地下油藏——找寻石油的地震方法
+# http://v.163.com/special/cuvocw/toushidixiayouzang.html
+# 上海交通大学公开课：经济学的理解与运用——价格扭曲与通货膨胀
+# http://v.163.com/special/cuvocw/jiageniuqu.html
+# 中南财经政法大学公开课：生活中的财政学
+# http://v.163.com/special/cuvocw/shenghuocaizheng.html
+# 【TED】关于听的艺术
+# http://v.163.com/movie/2012/1/8/M/M7SMF20IJ_M7SMF6M8M.html
+# 国立台湾大学公开课：庄子寓言文学
+http://v.163.com/special/ntu/zhuangziyuyanwenxue.html
+# 2012年哥伦比亚大学毕业典礼奥巴马的演讲
+# http://v.163.com/special/openclass/obamaspeech.html
+# 大连大学公开课：汉字的传统文化解读
+# http://v.163.com/special/cuvocw/hanziwenhua.html
+# 谁说阿拉伯语不酷了？
+# http://v.163.com/movie/2014/3/H/G/M9KC517CL_M9KEUMKHG.html
+# 让我们来谈谈死亡
+# http://v.163.com/movie/2014/2/F/H/M9HHGGVUV_M9HMNDCFH.html
+# 【TED】我的专属蘑菇寿衣
+# http://v.163.com/movie/2012/1/D/Q/M7SMJFRCO_M7SMJHVDQ.html
+# 西安建筑科技大学公开课：中华建筑的文化解码
+# http://v.163.com/special/cuvocw/zhonghuajianzhu.html
+# 仿生技术进行式
+# http://v.163.com/movie/2011/7/O/9/M7FSVVG9S_M7FT06UO9.html
+# 【TED】拯救“舞蹈”熊
+# http://v.163.com/movie/2011/7/M/V/M7AQ8CF1E_M7AQHDIMV.html
+# 活在画中的秘密
+# http://v.163.com/movie/2013/12/B/5/M9DRQFNFH_M9E8FU0B5.html
+# 康多莉扎·赖斯在南卫理公会大学毕业典礼上的演讲
+http://v.163.com/special/opencourse/condoleezza.html 
+# 【TED】计算万物的理论
+# http://v.163.com/movie/2011/7/E/9/M78ACLBCI_M78ACRSE9.html
+# 我们共享的状态——意识
+# http://v.163.com/movie/2014/3/U/9/M9KC3VSTL_M9KERPHU9.html
+# 【TED】3D打印入门
+# http://v.163.com/movie/2012/1/9/G/M84QARHAJ_M84QAUS9G.html
+# 中央美术学院公开课：造型基础之色彩训练
+# http://v.163.com/special/cuvocw/zaoxingjichu.html
+# 【TED】蘑菇拯救世界的6种方法
+# http://v.163.com/movie/2008/5/M/P/M839E9ARF_M83JN9CMP.html
+# 【TED】我那曝光政府腐败的战斗
+# http://v.163.com/movie/2013/2/J/G/M921CRO01_M921D25JG.html
+# 【TED】我们的那些烂学校，我受够你们了!
+# http://v.163.com/movie/2013/3/D/3/M8VU07LTJ_M8VU0BDD3.html
+# 北京外国语大学公开课：俄罗斯文学的品格与文化特性
+# http://v.163.com/special/cuvocw/eluosiwenxue.html
+# 安德鲁：另眼看非洲
+# http://v.163.com/movie/2007/9/B/2/M7RKOI3A1_M7RL990B2.html
+# 山西大学公开课：秦汉三国政治史专题
+# http://v.163.com/special/cuvocw/qinhansanguo.html
+# 内蒙古大学公开课：蒙古族现当代文学史
+# http://v.163.com/special/cuvocw/mengguzu.html
+# 【TED】维系长期性伴侣关系的奥秘
+# http://v.163.com/movie/2013/1/Q/A/M8VTQ1K9M_M8VTQ5MQA.html
+# 中国科学技术大学公开课：系统生物学与生命
+# http://v.163.com/special/cuvocw/xitongshengwu.html 
+# 王力宏牛津大学演讲：认识华流
+http://v.163.com/movie/2013/4/2/3/M8SDM5PHL_M8SDNGR23.html
+# 图书设计可不是闹着玩的！好吧其实是的……
+# http://v.163.com/movie/2014/3/H/O/M9KC2ITQH_M9KEOT1HO.html
+# 山东大学公开课：管理学与领导艺术
+# http://v.163.com/special/cuvocw/guanlixuelingdao.html 
+# 郑州大学公开课：材料·人·环境——走进材料科学
+# http://v.163.com/special/cuvocw/cailiaokexue.html
+# 华南理工大学公开课：绚丽多彩的图形世界
+# http://v.163.com/special/cuvocw/tuxingshijie.html
+# 陕西师范大学公开课：心身疾病预防与心理调节
+# http://v.163.com/special/cuvocw/xinlitiaojie.html
+# 太空时代的考古学
+# http://v.163.com/movie/2014/1/2/P/M9G199GG0_M9G3NR42P.html
+# 一个与狮子和平共处的发明
+# http://v.163.com/movie/2013/1/5/U/M9239BN52_M9239IQ5U.html
+# 可汗学院公开课：脑筋急转弯
+http://v.163.com/special/Khan/brainteasers.html
+# 【TED】漫谈时光流逝
+# http://v.163.com/movie/2008/10/I/K/M7SOU7UGB_M7SOUAOIK.html
+# 青岛科技大学公开课：橡胶与人类
+# http://v.163.com/special/cuvocw/xiangjiao.html
+# 中南财经政法大学公开课：价值营销概说
+# http://v.163.com/special/cuvocw/jiazhi.html
+# 加州艺术学院公开课：家具装饰
+http://v.163.com/special/opencourse/furniture.html
+# 战时儿童的激情演唱
+# http://v.163.com/movie/2011/7/H/I/M7FSUJTR8_M7FSUOBHI.html
+# 中国海洋大学公开课：海洋学——认识海洋的科学
+# http://v.163.com/special/cuvocw/haiyangxue.html
+# 九月怀胎
+# http://v.163.com/movie/2013/5/F/H/M8TIV1TNC_M8TIV91FH.html
+# 帕金森氏综合症、抑郁症和关闭它们的开关 
+# http://v.163.com/movie/2013/10/S/0/M9AI18IFI_M9BLUB3S0.html
+# 清华大学公开课：数学模型-现实世界的理性视角
+# http://v.163.com/special/cuvocw/lixingshijiao.html
+# 镜头下的AIDS
+# http://v.163.com/movie/2010/10/0/T/M7SP4RPFE_M7SP4T60T.html
+# 用计算机教孩子真正的数学
+# http://v.163.com/movie/2010/11/J/1/M77TH78HU_M78B4KQJ1.html
+# 【TED】演示可调节的液体填充眼镜
+# http://v.163.com/movie/2011/7/V/R/M7EEGIBF6_M7EEGKEVR.html
+# 音乐与医学
+# http://v.163.com/movie/2013/4/J/O/M92TESRI7_M92TF6EJO.html
+# 可汗学院公开课：加州高中毕业考试习题讲解
+http://v.163.com/special/Khan/cahseeexample.html 
+# 解密希特勒
+# http://v.163.com/movie/2013/5/E/J/M8TJ83J0K_M8TJ8EGEJ.html
+# 倡导手机公平贸易
+# http://v.163.com/movie/2013/8/A/4/M957H6ER3_M957HFBA4.html
+# 国防科技大学公开课：千年机械话创新
+# http://v.163.com/special/cuvocw/qiannianjixie.html
+# 如何培养创造力和自信心
+# http://v.163.com/movie/2012/1/S/V/M8SI8DI3F_M8SI8HDSV.html
+# 国立台湾大学公开课：中国传统生命礼俗
+http://v.163.com/special/ntu/shengminglisu.html
+# 华南理工大学公开课：建筑美学
+# http://v.163.com/special/cuvocw/jianzhumeixue.html
+# 【TED】罗伯特·戈登: 创新的死亡，增长的结束
+# http://v.163.com/movie/2013/9/N/J/M97VTMRSV_M97VTQTNJ.html
+# 【TED】空间设计新理念
+# http://v.163.com/movie/2009/4/I/4/M7JTI231H_M7JTI8EI4.html
+# 云南大学公开课：哲学与人生
+# http://v.163.com/special/cuvocw/zhexueyurensheng.html
+# 万亿分之一秒摄影
+# http://v.163.com/movie/2013/2/T/E/M8VTMEGAH_M8VTMI4TE.html
+# 可汗学院公开课：概率 
+http://v.163.com/special/Khan/probability.html
+# 多媒体戏剧之旅
+# http://v.163.com/movie/2011/7/S/3/M7EEH055D_M7EEH45S3.html
+# 变胖的真相
+# http://v.163.com/movie/2013/5/B/Q/M8TIVQK2I_M8TJ01JBQ.html
+# 【TED】寻找达芬奇的真实面孔
+# http://v.163.com/movie/2012/5/7/0/M90L7J6B8_M90L7MI70.html
+# 中国人民大学公开课：新闻记者的基本功——采访与写作
+# http://v.163.com/special/cuvocw/xinwenjizhe.html
+# 【TED】声音中宇宙在历史
+# http://v.163.com/movie/2011/7/C/Q/M780Q4ANT_M780QHPCQ.html
+# 西北农林科技大学公开课：动物营养与低碳健康养殖
+# http://v.163.com/special/cuvocw/dongwuyangzhi.html
+# 重建底特律的新视角
+# http://v.163.com/movie/2014/2/A/D/M9HKT7BCH_M9HNC6MAD.html
+# 复旦大学公开课：康德的理论哲学和实践哲学
+# http://v.163.com/special/cuvocw/kangdezhexue.html 
+# 可引发增强现实的图像识别
+# http://v.163.com/movie/2014/1/P/P/M9G1AT2SH_M9G3QBNPP.html
+# 【TED】音乐的力量
+# http://v.163.com/movie/2008/12/0/B/M7P74R976_M7P74UN0B.html
+# 演示“第六感”
+# http://v.163.com/movie/2009/3/C/G/M7JTGVJ8G_M7JTHBICG.html
+# 南京理工大学公开课：武器装备概论
+# http://v.163.com/special/cuvocw/wuqizhuangbei.html
+# 【TED】车水马龙的明天
+# http://v.163.com/movie/2013/2/T/F/M8VRO29P1_M8VRO6JTF.html
+# 中山大学公开课：视觉文化批评
+# http://v.163.com/special/cuvocw/shijuewenhuapiping.html
+# 东北大学公开课：企业文化与商业伦理
+# http://v.163.com/special/cuvocw/qiyewenhua.html
+# 推特小说的冒险
+# http://v.163.com/movie/2014/2/9/T/M9HHVP29J_M9HN5SC9T.html
+# 密西西比河谷州立大学：Android应用程序开发
+http://v.163.com/special/opencourse/developingandroidapplications.html
+# 李世默：两种制度的传说
+# http://v.163.com/movie/2013/8/0/J/M957JMNDH_M957JQ80J.html
+# 对外经济贸易大学公开课：企业财务报表分析
+# http://v.163.com/special/cuvocw/qiyecaiwu.html
+# 复旦大学公开课：外国经济思想史
+# http://v.163.com/special/cuvocw/jingjisixiangshi.html
+# 斯坦福大学：美国研究
+http://v.163.com/special/opencourse/americaprogram.html 
+# 我在纽约垃圾中的发现
+# http://v.163.com/movie/2014/2/4/Q/M9HKRLDJ2_M9HN9MQ4Q.html
+# 耶鲁大学公开课：旧约全书导论
+http://v.163.com/special/sp/introductiontotheoldtestament.html
+# 北京林业大学公开课：土壤侵蚀原理
+# http://v.163.com/special/cuvocw/turangqinshi.html
+# 第三军医大学公开课：皮肤病及性病防治与健康生活
+# http://v.163.com/special/cuvocw/pifubing.html
+# 耶鲁大学公开课：文学理论导论
+http://v.163.com/special/introductiontotheoryofliterature/
+# 每个城市都需要健康的蜜蜂
+# http://v.163.com/movie/2013/12/9/O/M9E8JLKVE_M9EDEBD9O.html
+# 世界英语热
+# http://v.163.com/movie/2013/4/I/8/M8SKKU9HJ_M8SKL0EI8.html
+# 凯特·斯通: 纸质DJ台
+# http://v.163.com/movie/2013/11/4/V/M9C2VUTQQ_M9C302S4V.html
+# 贫民区的教育创新
+# http://v.163.com/movie/2010/6/K/I/M78G69PD4_M78G6JLKI.html
+# 音乐和情感的传承
+# http://v.163.com/movie/2013/9/D/9/M97ITEHH5_M97ITJ0D9.html
+# 新疆农业大学公开课：新疆多民族文化
+# http://v.163.com/special/cuvocw/xinjiangduominzuwenhua.html
+# 湘潭大学公开课：审美与人生
+# http://v.163.com/special/cuvocw/shenmei.html
+# 奥巴马演讲：停摆结束，美国联邦政府重开张
+http://v.163.com/movie/2013/10/P/O/M9AHRD4L9_M9AHRJ8PO.html
+# 济南大学公开课：化学与人类健康
+# http://v.163.com/special/cuvocw/renleijiankang.html
+# 【TED】谈康复
+# http://v.163.com/movie/2012/1/A/C/M7SM9BVMO_M7SM9EQAC.html
+# 【TED】有声有色可教学的积木
+# http://v.163.com/movie/2012/3/G/L/M84Q4RUS4_M84Q4TMGL.html
+# 人民大学公开课：当代哲学热点问题
+# http://v.163.com/special/cuvocw/dangdaizhexueredianwenti.html
+# 我的激进计划：小型核裂变反应堆
+# http://v.163.com/movie/2013/12/4/3/M9E8JBHGR_M9EDA7E43.html
+# 哈佛大学公开课：幸福课
+http://v.163.com/special/sp/positivepsychology.html
+# 退役军人的新任务——救灾
+# http://v.163.com/movie/2012/12/T/5/M92TFTFN0_M92TG0CT5.html
+# 斯坦福大学公开课：全球气候与能源计划
+http://v.163.com/special/opencourse/globalclimate.html
+# 越有钱越无情？
+# http://v.163.com/movie/2014/2/L/T/M9HKT9J6A_M9HNC9NLT.html
+# 为什么设计师在设计中考虑听觉观感
+# http://v.163.com/movie/2013/12/F/3/M9DROM7AR_M9E84QUF3.html
+# 西南大学公开课：美学与人生
+# http://v.163.com/special/cuvocw/meixueyurensheng.html
+# 斯坦福大学公开课 ：机器学习课程
+http://v.163.com/special/opencourse/machinelearning.html
+# 不为人知的《大卫与歌利亚》的故事
+# http://v.163.com/movie/2014/2/O/4/M9HHGTGI9_M9HMPLLO4.html
+# 大卫.拜恩德：艺术节的革命
+# http://v.163.com/movie/2013/9/J/B/M97IT5O3O_M97ITAOJB.html
+# 【TED】用“云”建立一所学校
+# http://v.163.com/movie/2013/3/J/7/M8NUR06VN_M8NURC3J7.html
+# 我们从财政悬崖边学到了什么
+# http://v.163.com/movie/2013/2/0/K/M9236ML41_M92373O0K.html
+# 苏州大学公开课：昆曲艺术
+# http://v.163.com/special/cuvocw/kunquyishu.html
+# 中南大学公开课：儿童常见疾病防治
+# http://v.163.com/special/cuvocw/ertongjibing.html
+# 纽约街道，从此不再破旧不堪
+# http://v.163.com/movie/2014/2/F/Q/M9HHJ2GHR_M9HN5M6FQ.html
+# 浙江工商大学公开课：专题摄影的文化呈现
+# http://v.163.com/special/cuvocw/zhuantisheying.html
+# 斯坦福大学公开课：经济学
+http://v.163.com/special/sp/economics.html

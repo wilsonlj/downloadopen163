@@ -124,6 +124,8 @@ http://v.163.com/special/opencourse/oxfordabridgedshorttalks.html
 http://v.163.com/special/Khan/iitjee.html
 # 纽约大学公开课：美国文学
 http://v.163.com/special/opencourse/americanliterature.html
+# 麻省理工学院公开课：经典力学
+http://v.163.com/special/opencourse/classicalmechanics.html
 # 恐怖主义事件风险及经济分析中心杰出人物系列讲座
 http://v.163.com/special/opencourse/distinguished.html 
 # 可汗学院公开课：公元400年前的古代艺术
@@ -623,4 +625,130 @@ http://v.163.com/special/Khan/european.html
 # 巴黎高等商学院公开课：决策统计学
 http://v.163.com/special/opencourse/ladcision.html
 # 亚利桑那大学公开课：活到一百岁
-http://v.163.com/s
+http://v.163.com/special/opencourse/beyond100.html
+# 国立台湾大学公开课：爱情社会学
+http://v.163.com/special/ntu/aiqingshehuixue.html
+# 斯坦福大学公开课：临床解剖学
+http://v.163.com/special/opencourse/anatomy.html
+# 可汗学院公开课：宏观经济学
+http://v.163.com/special/Khan/macroeconomics.html
+# 国立台湾大学公开课：希伯来经典与世界文明
+http://v.163.com/special/ntu/xibolai.html
+# 探讨美国环保署对于PM2.5和PM10的标准
+http://v.163.com/special/opencourse/pm2.5.html 
+# 西雅图太平洋大学公开课：基础护理理论
+http://v.163.com/special/opencourse/nursingtheory.html
+# 杜克大学公开课：苹果CEO蒂姆·库克访谈
+http://v.163.com/special/opencourse/timcookatduke.html
+# 斯坦福大学公开课：Electronic Arts创始人谈创业过程
+http://v.163.com/special/opencourse/electronicarts.html
+# 哈佛大学公开课：计算机科学cs50
+http://v.163.com/special/opencourse/cs50.html
+# 纽约大学公开课：Google vs Apple谁会笑到最后？
+http://v.163.com/special/opencourse/googlevsapple.html
+# 剑桥大学公开课：人类学
+http://v.163.com/special/opencourse/anthropology.html
+# 耶鲁大学公开课：心理学导论
+http://v.163.com/special/sp/introductiontopsychology.html
+# 耶鲁大学公开课：新约及其历史背景
+http://v.163.com/special/sp/introductiontonewtestamenthistoryandliterature.html
+# IIIM神学教育资源中心：我们相信耶稣
+http://v.163.com/special/opencourse/believejesus.html
+# 可汗学院公开课：绝对值
+http://v.163.com/special/Khan/value.html 
+# 可汗学院公开课：算术与代数预备课程：加法与减法
+http://v.163.com/special/Khan/additionandsubtraction.html
+# 耶鲁大学开放课程：基础物理
+http://v.163.com/special/fundamentalsofphysics/
+# 国立台湾大学公开课：自我知识
+http://v.163.com/special/ntu/ziwozhishi.html
+# 俄克拉荷马大学新闻大众传播学院：英国媒体研究
+http://v.163.com/special/opencourse/britishmedia.html
+# 耶鲁大学公开课：1871年后的法国
+http://v.163.com/special/francesince1871/
+# 耶鲁大学公开课：《以赛亚书》圣经研读系列
+http://v.163.com/special/opencourse/thebookofisaiah.html 
+# 耶鲁大学公开课：弥尔顿
+http://v.163.com/special/milton/ 
+# 哈佛大学公开课：天文台之夜
+http://v.163.com/special/opencourse/observatory.html 
+# 耶鲁大学公开课：英国近代史
+http://v.163.com/special/opencourse/modernengland.html
+# 波士顿大学公开课：生物空气动力学
+http://v.163.com/special/opencourse/bio-aeriallocomotion.html
+# 麻省理工学院公开课：多变量微积分
+http://v.163.com/special/opencourse/multivariable.html
+# 可汗学院公开课：统计学
+http://v.163.com/special/Khan/khstatistics.html
+# 斯坦福大学公开课：从生物学看人类行为
+http://v.163.com/special/opencourse/humanbehavioral.html
+# 国立台湾大学公开课：汉书
+http://v.163.com/special/ntu/hanshu.html
+# 可汗学院公开课：几何学-角
+http://v.163.com/special/Khan/angles.html
+# 西雅图太平洋大学公开课：婴儿大脑规则
+http://v.163.com/special/opencourse/brainrulesforbaby.html
+# 东京大学：法与现代社会
+http://v.163.com/special/opencourse/tokyolaw.html
+# 利伯缇大学公开课：特殊儿童研究
+http://v.163.com/special/opencourse/exceptional.html 
+# 麻省理工学院公开课：单变量微积分
+http://v.163.com/special/sp/singlevariablecalculus.html
+# 加州大学洛杉矶分校公开课：神经外科学的100个话题
+http://v.163.com/special/opencourse/neurosurgery.html 
+# 麻省理工学院公开课：计算机科学及编程导论
+http://v.163.com/special/opencourse/bianchengdaolun.html
+# 亚利桑那大学公开课：知识产权
+http://v.163.com/special/opencourse/intellectualproperty.html
+# 伟谷州立大学公开课：LGBT大会
+http://v.163.com/special/opencourse/lgbt.html
+# 国立台湾大学公开课：音乐、演化与大脑
+http://v.163.com/special/ntu/yinyueyanhua.html
+# 斯坦福大学公开课：傅里叶变换及其应用
+http://v.163.com/special/opencourse/fouriertransforms.html
+# 可汗学院公开课：GMAT考试问题解答（数学）
+http://v.163.com/special/Khan/gmatproblemsolving.html
+# 伟谷州立大学公开课：亚伯拉罕·林肯两百周年纪念
+http://v.163.com/special/opencourse/abrahamlincoln.html
+# 巴黎高等商学院公开课：第二届金融与统计学大会
+http://v.163.com/special/opencourse/2ndhec.html
+# 哈佛大学公开课：头脑战争
+http://v.163.com/special/opencourse/mindatwar.html
+# 新西兰国立南方理工学院公开课：英语强化课程I
+http://v.163.com/special/opencourse/englishs1.html
+# 心理学：探究幸福 
+http://v.163.com/special/psychology/
+# 可汗学院公开课：算术与代数预备课程：数的性质
+http://v.163.com/special/Khan/number.html
+# 耶鲁大学公开课：美国独立战争
+http://v.163.com/special/opencourse/americanrevolution.html
+# 国立台湾大学公开课：庄子寓言文学
+http://v.163.com/special/ntu/zhuangziyuyanwenxue.html
+# 康多莉扎·赖斯在南卫理公会大学毕业典礼上的演讲
+http://v.163.com/special/opencourse/condoleezza.html 
+# 可汗学院公开课：脑筋急转弯
+http://v.163.com/special/Khan/brainteasers.html
+# 加州艺术学院公开课：家具装饰
+http://v.163.com/special/opencourse/furniture.html
+# 可汗学院公开课：加州高中毕业考试习题讲解
+http://v.163.com/special/Khan/cahseeexample.html 
+# 国立台湾大学公开课：中国传统生命礼俗
+http://v.163.com/special/ntu/shengminglisu.html
+# 可汗学院公开课：概率 
+http://v.163.com/special/Khan/probability.html
+# 密西西比河谷州立大学：Android应用程序开发
+http://v.163.com/special/opencourse/developingandroidapplications.html
+# 斯坦福大学：美国研究
+http://v.163.com/special/opencourse/americaprogram.html 
+# 耶鲁大学公开课：旧约全书导论
+http://v.163.com/special/sp/introductiontotheoldtestament.html
+# 耶鲁大学公开课：文学理论导论
+http://v.163.com/special/introductiontotheoryofliterature/
+# 哈佛大学公开课：幸福课
+http://v.163.com/special/sp/positivepsychology.html
+# 斯坦福大学公开课：全球气候与能源计划
+http://v.163.com/special/opencourse/globalclimate.html
+# 斯坦福大学公开课 ：机器学习课程
+http://v.163.com/special/opencourse/machinelearning.html
+# 斯坦福大学公开课：经济学
+http://v.163.com/special/sp/economics.html

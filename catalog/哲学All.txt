@@ -1,0 +1,152 @@
+# 复旦大学公开课：西方马克思主义早期代表人物思想研究
+# http://v.163.com/special/cuvocw/makesizhuyi.html
+# 大连理工大学公开课：创造性思维与创新方法
+# http://v.163.com/special/cuvocw/chuangxin.html
+# 为什么我们的智商比我们的祖先高
+# http://v.163.com/movie/2014/3/A/8/M9KC6T2VT_M9KGU1NA8.html
+# 斯坦福大学公开课：健康图书馆
+http://v.163.com/special/opencourse/tushuguan.html
+# 复旦大学公开课：Terry Pinkard《当代视野中的黑格尔哲学》
+# http://v.163.com/special/opencourse/heigeer.html
+# 浙江大学公开课：王阳明心学
+# http://v.163.com/special/cuvocw/wangyangming.html 
+# IIIM神学教育资源中心：太古历史-创世纪1-11
+http://v.163.com/special/opencourse/taigulishi.html
+# 耶鲁大学公开课：政治哲学导论
+http://v.163.com/special/sp/introductiontopoliticalphilosophy.html
+# 宗教信仰，进化论以及自我超越的狂喜
+# http://v.163.com/movie/2014/2/O/P/M9HHGB8H9_M9HMM13OP.html
+# 耶鲁大学公开课：博弈论
+http://v.163.com/special/gametheory/
+# 哈佛大学公开课：公正-该如何做是好？
+http://v.163.com/special/justice/
+# 湖南师范大学公开课：船山哲学与中国早期启蒙思潮
+# http://v.163.com/special/cuvocw/chuanshanzhexue.html
+# 华中科技大学公开课：哲学导论
+# http://v.163.com/special/cuvocw/zhexuedaolun.html
+# 湖北工程学院公开课：说孝
+# http://v.163.com/special/cuvocw/shuoxiao.html
+# 人民大学公开课：薪火传承·中国传统哲学通论 
+# http://v.163.com/special/cuvocw/chuantongzhexue.html
+# 让我们来谈谈死亡
+# http://v.163.com/movie/2014/2/F/H/M9HHGGVUV_M9HMNDCFH.html
+# 云南大学公开课：哲学与人生
+# http://v.163.com/special/cuvocw/zhexueyurensheng.html
+# 北京建筑大学公开课：建筑与伦理
+# http://v.163.com/special/cuvocw/jianzhuyulunli.html
+# 人民大学公开课：当代哲学热点问题
+# http://v.163.com/special/cuvocw/dangdaizhexueredianwenti.html
+# 麻省理工学院公开课：西方世界的爱情哲学
+http://v.163.com/special/sp/philosophyofloveinthewesternworld.html
+# 大连理工大学公开课：科学技术与工程伦理
+# http://v.163.com/special/cuvocw/gongchenglunli.html
+# 耶鲁大学公开课：哲学-死亡
+http://v.163.com/special/sp/philosophy-death.html
+# 武汉理工大学公开课：庄子的人生智慧
+# http://v.163.com/special/cuvocw/zhuangzi.html
+# 国立台湾大学公开课：自我知识
+http://v.163.com/special/ntu/ziwozhishi.html
+# 江苏师范大学公开课：孟子的文化精神
+# http://v.163.com/special/cuvocw/mengziwenhuajingshen.html
+# 中央民族大学公开课：人人美学
+# http://v.163.com/special/cuvocw/renrenmeixue.html
+# 吉林大学公开课：中国传统处世智慧概说
+# http://v.163.com/special/cuvocw/zhongguochuantongchushizhihui.html
+# 你的“短期记忆”如何理解世界
+# http://v.163.com/movie/2014/2/M/C/M9HKSFRAH_M9HNAI7MC.html
+# 中山大学公开课：认知科学导论
+# http://v.163.com/special/cuvocw/renzhikexue.html
+# 复旦大学公开课：康德的理论哲学和实践哲学
+# http://v.163.com/special/cuvocw/kangdezhexue.html 
+# 牛津大学开放课程：哲学概论
+http://v.163.com/special/sp/generalphilosophy.html
+# 哈佛大学公开课：幸福课
+http://v.163.com/special/sp/positivepsychology.html
+# 没有信任，民主能继续存在么？
+# http://v.163.com/movie/2013/12/0/F/M9EDINVL9_M9EDIR30F.html
+# IIIM神学教育资源中心：福音书
+http://v.163.com/special/opencourse/gospels.html
+# 牛津大学公开课：批判性推理入门
+http://v.163.com/special/opencourse/beginners.html
+# 国立台湾大学公开课：逻辑
+http://v.163.com/special/ntu/luoji.html
+# 中国人民大学公开课：平凡生活中的深沉智慧——辩证唯物论
+# http://v.163.com/special/cuvocw/pingfanshenghuobianzheng.html
+# 广西师范大学公开课：女大学生素养
+# http://v.163.com/special/cuvocw/nvdaxuesheng.html
+# 牛津大学公开课：尼采的心灵与自然
+http://v.163.com/special/sp/nietzscheonmindandnature.html
+# 嫉妒的颂歌
+# http://v.163.com/movie/2014/2/S/R/M9HI6OJ4U_M9HN7T4SR.html
+# 【TED】刘勃麟：隐身人
+# http://v.163.com/movie/2013/5/N/3/M8U4UGK5M_M8U5IC8N3.html
+# 陕西师范大学公开课：哲学革命的理论总结——《路德维希·费尔巴哈和德国古典哲学的终结》导读
+# http://v.163.com/special/cuvocw/gemingdelilunzongjie.html
+# 我们在宇宙中的位置
+# http://v.163.com/movie/2006/9/3/6/M7SLRBFG8_M7SLRGD36.html
+# 南京师范大学公开课：西方伦理思想漫谈
+# http://v.163.com/special/cuvocw/xifanglunlisixiang.html
+# 哈佛大学公开课：犹太教和基督教的希伯来书圣经
+http://v.163.com/special/opencourse/hebrewscriptures.html
+# 王磊介绍
+# http://v.163.com/movie/2013/7/Q/H/M91PGOSQH.html
+# 非暴力抗争
+# http://v.163.com/movie/2013/9/3/M/M97IRE1GP_M97IRP23M.html
+# IIIM神学教育资源中心：使徒信经
+http://v.163.com/special/opencourse/theapostlescreed.html
+# 中山大学公开课：逻辑学导引
+# http://v.163.com/special/cuvocw/luojixue.html
+# 慕尼黑大学公开课：黑格尔与精神现象学
+http://v.163.com/special/opencourse/hegel.html
+# 麻省理工学院公开课：电影哲学
+http://v.163.com/special/sp/mitphilosophyoffilm.html 
+# 坎迪·张：在死之前，我想......
+# http://v.163.com/movie/2013/12/J/O/M9DRO9NLM_M9E84E0JO.html
+# 生命并不因死亡而终止
+# http://v.163.com/movie/2014/2/F/F/M9HHH1L6O_M9HMQEKFF.html
+# 作为人民，和我们必须夺回的共和国
+# http://v.163.com/movie/2013/12/R/0/M9E8IE9VP_M9ED9CGR0.html
+# 我们需要一个关于死亡的英雄叙事
+# http://v.163.com/movie/2014/2/7/1/M9HI01VGR_M9HN68671.html
+# 吉林大学公开课：哲学通论
+# http://v.163.com/special/cuvocw/zhexuetonglun.html 
+# 论重塑博雅教育
+http://v.163.com/movie/2009/9/1/S/M7CJCA28P_M7CJCGQ1S.html
+# 对数字3000的全新视角
+# http://v.163.com/movie/2014/3/V/3/M9LI9G0PI_M9LI9KCV3.html
+# 心灵各种
+# http://v.163.com/special/ted10collection/
+# 麻省理工学院公开课：艺术和科技中的感觉与想象
+http://v.163.com/special/opencourse/feeling.html 
+# 河北师范大学公开课：大学生活与大学生成长
+# http://v.163.com/special/cuvocw/daxueshenghuo.html 
+# 死鸭改变人生
+# http://v.163.com/movie/2013/3/1/H/M92TH444S_M92TH771H.html
+# 黑龙江大学公开课：哲学的魅力
+# http://v.163.com/special/cuvocw/zhexuedemeili.html
+# 东北大学公开课：老子的人生智慧
+# http://v.163.com/special/cuvocw/laozi.html
+# 圣母大学公开课：古代智慧与当代爱情
+http://v.163.com/special/opencourse/modernlove.html 
+# 耶鲁大学公开课：人性的哲学与科学
+http://v.163.com/special/opencourse/humannature.html 
+# 北京林业大学公开课：令人憧憬而困惑的生态文明
+# http://v.163.com/special/cuvocw/shengtaiwenming.html
+# 兰州大学公开课：海德格尔思想研究
+# http://v.163.com/special/cuvocw/haidegeer.html
+# 牛津大学公开课：爱情微讲座
+http://v.163.com/special/opencourse/oxfordabridgedshorttalks.html
+# 网易公开课独家专访桑德尔
+# http://v.163.com/special/sandel2012/
+# 为什么我们不能把公民生活托付给市场？
+# http://v.163.com/movie/2014/2/E/L/M9HHIVU4O_M9HN5JEEL.html
+# 国立台湾大学公开课：《易经》解读
+http://v.163.com/special/ntu/yijingjiedu.html
+# 武汉大学公开课：中国古代思想智慧
+# http://v.163.com/special/cuvocw/zhongguogudaisixiangzhihui.html
+# IIIM神学教育资源中心：我们相信耶稣
+http://v.163.com/special/opencourse/believejesus.html
+# 牛津大学公开课：康德的纯粹理性批判
+http://v.163.com/special/opencourse/kantscritique.html
+# 东北石油大学公开课：大庆精神创新与发展
+# http://v.163.com/special/cuvocw/daqingjingshen.html

@@ -1,0 +1,178 @@
+# 新疆大学公开课：西域文明十讲
+# http://v.163.com/special/cuvocw/xiyuwenming.html
+# 西南政法大学公开课：中国法制史
+# http://v.163.com/special/cuvocw/zhongguofazhishi.html
+# 可汗学院公开课：欧洲史
+http://v.163.com/special/Khan/european.html
+# 复旦大学公开课：王汎森讲座《执拗的低音》
+# http://v.163.com/special/opencourse/zhiniu.html
+# 国立台湾大学公开课：战争之外的军事史
+http://v.163.com/special/ntu/zhanzhengzhiwai.html
+# 国立台湾大学公开课：传统中国的国家与皇权
+http://v.163.com/special/ntu/guojiayuhuangquan.html
+# 西北工业大学公开课：千古潼关
+# http://v.163.com/special/cuvocw/qiangutongguan.html
+# 浙江工商大学公开课：中华饮食文化
+# http://v.163.com/special/cuvocw/yinshiwenhua.html
+# 中央民族大学公开课：中华文化20讲
+# http://v.163.com/special/cuvocw/zhonghuawenhua20.html
+# 西安建筑科技大学公开课：中华建筑的文化解码
+# http://v.163.com/special/cuvocw/zhonghuajianzhu.html
+# 太空时代的考古学
+# http://v.163.com/movie/2014/1/2/P/M9G199GG0_M9G3NR42P.html
+# 武汉大学公开课：古希腊文明的兴衰
+# http://v.163.com/special/cuvocw/guxilawenming.html
+# 可汗学院公开课：美国史
+http://v.163.com/special/Khan/usa.html
+# 山西大学公开课：区域社会史导论
+# http://v.163.com/special/cuvocw/quyushehuishi.html
+# 中国科学技术大学公开课：科学简史·科学革命篇
+# http://v.163.com/special/cuvocw/kexuejianshi.html
+# 斯坦福：美国总统选举中的地理学
+http://v.163.com/special/opencourse/geographyofusselections.html
+# 赣南师范学院公开课：中央苏区史专题讲座
+# http://v.163.com/special/cuvocw/zhongyangsuqu.html
+# 耶鲁大学公开课：1945年后的美国小说
+http://v.163.com/special/theamericannovelsince1945/ 
+# 苏州大学公开课：苏州诗咏与吴文化
+# http://v.163.com/special/cuvocw/suzhoushiyong.html
+# 北京师范大学公开课：《史记》人物形象
+# http://v.163.com/special/cuvocw/shijirenwu.html 
+# 山西大学公开课：秦汉三国政治史专题
+# http://v.163.com/special/cuvocw/qinhansanguo.html
+# 华东师范大学公开课：第二次世界大战起源
+# http://v.163.com/special/cuvocw/erzhanqiyuan.html
+# 西华师范大学公开课：中国传统文化纵论
+# http://v.163.com/special/cuvocw/wenhuazonglun.html
+# 辽宁师范大学公开课：中国古代玉器
+# http://v.163.com/special/cuvocw/zhognguogudaiyuqi.html
+# 可汗学院公开课：公元400年前的古代艺术
+http://v.163.com/special/Khan/400ce.html
+# 武汉理工大学公开课：中华船文化
+# http://v.163.com/special/cuvocw/zhonghuachuanwenhua.html 
+# 北京大学公开课：近代中国人对国家出路的早期探索
+# http://v.163.com/special/cuvocw/guojiachulu.html
+# 河南师范大学公开课：华夏人文文化解读
+# http://v.163.com/special/cuvocw/huaxiarenwen.html
+# 西北大学公开课：中国考古重大发现选讲
+# http://v.163.com/special/cuvocw/zhongguokaogu.html
+# 华中师范大学公开课：中国近代史
+# http://v.163.com/special/cuvocw/jindaishi.html
+# 斯坦福大学：非裔美国人历史——当代自由斗争
+http://v.163.com/special/opencourse/modernfreedom.html
+# 历史中的数学
+# http://v.163.com/movie/2014/1/J/6/M9G136O9T_M9G37SFJ6.html
+# 中央民族大学公开课：中国民族志·西北篇
+# http://v.163.com/special/cuvocw/zhongguominzuzhi.html
+# 中南财经政法大学公开课：全球会计通史
+# http://v.163.com/special/cuvocw/kuaijitongshi.html
+# 华南理工大学公开课：建筑历史
+# http://v.163.com/special/cuvocw/jianzhulishi.html
+# IIIM神学教育资源中心：使徒信经
+http://v.163.com/special/opencourse/theapostlescreed.html
+# 耶鲁大学公开课：新约及其历史背景
+http://v.163.com/special/sp/introductiontonewtestamenthistoryandliterature.html
+# 英国公开大学：10分钟英语史
+http://v.163.com/special/opencourse/english.html
+# 耶鲁大学公开课：美国内战与重建，1845-1877
+http://v.163.com/special/sp/thecivilwarandreconstructionera.html
+# 武汉大学公开课：中国古代思想智慧
+# http://v.163.com/special/cuvocw/zhongguogudaisixiangzhihui.html
+# 中央民族大学公开课：中国古代妇女史专题
+# http://v.163.com/special/cuvocw/zhongguogudaifunvshi.html
+# 浙江师范大学公开课：江南城市与文化传统
+# http://v.163.com/special/cuvocw/jiangnanchengshi.html
+# 武汉理工大学公开课：庄子的人生智慧
+# http://v.163.com/special/cuvocw/zhuangzi.html
+# 中央民族大学公开课：唐史五讲
+# http://v.163.com/special/cuvocw/tangshiwujiang.html
+# 吉林师范大学公开课：满族文化史
+# http://v.163.com/special/cuvocw/manzuwenhuashi.html
+# 耶鲁大学公开课：中世纪早期史
+http://v.163.com/special/opencourse/earlymiddleages.html
+# 首都师范大学公开课：20世纪国际关系的历史
+# http://v.163.com/special/cuvocw/guojiguanxi.html
+# IIIM神学教育资源中心：我们相信耶稣
+http://v.163.com/special/opencourse/believejesus.html
+# 河南大学公开课：莎士比亚在近现代中国
+# http://v.163.com/special/cuvocw/shashibiya.html
+# 东北石油大学公开课：先秦诸子的理想人格
+# http://v.163.com/special/cuvocw/xianqinzhuzirenge.html
+# 湖北工业大学公开课：明式家具欣赏
+# http://v.163.com/special/cuvocw/mingshijiaju.html
+# IIIM神学教育资源中心：福音书
+http://v.163.com/special/opencourse/gospels.html
+# 南开大学公开课：纵谈中国古代前期史
+# http://v.163.com/special/cuvocw/gudaiqianqishi.html 
+# 国立台湾大学公开课：西方文明史
+http://v.163.com/special/ntu/xifangwenmingshi.html
+# 中国人民大学公开课：《贞观政要》与传统王道政治
+# http://v.163.com/special/cuvocw/zhenguanzhengyao.html 
+# 密苏里州立大学公开课：三个超级大国的兴衰故事
+http://v.163.com/special/opencourse/superpowers.html
+# 陕西师范大学公开课：隋唐人的日常生活——由小见大的历史
+# http://v.163.com/special/cuvocw/suitangren.html
+# 安徽师范大学公开课：安徽文化与古代中国
+# http://v.163.com/special/cuvocw/anhuiwenhua.html
+# 耶鲁大学公开课：古希腊历史简介
+http://v.163.com/special/sp/introductiontoancientgreekhistory.html
+# 斯坦福大学：美国研究
+http://v.163.com/special/opencourse/americaprogram.html 
+# 俄亥俄州立大学公开课：建筑史
+http://v.163.com/special/opencourse/historyofarchitecture.html
+# 复旦大学公开课：叶文心讲座《历程与图谱》
+# http://v.163.com/special/opencourse/lichengtupu.html 
+# 耶鲁大学公开课：1871年后的法国
+http://v.163.com/special/francesince1871/
+# 耶鲁大学公开课：旧约全书导论
+http://v.163.com/special/sp/introductiontotheoldtestament.html
+# 国立台湾大学公开课：孟子思想的现代探索
+http://v.163.com/special/ntu/mengzisixiang.html
+# 北京师范大学公开课：历史与环保
+# http://v.163.com/special/cuvocw/lishiyuhuanbao.html
+# 北京大学公开课：中国古代政治与文化
+# http://v.163.com/special/cuvocw/gudaizhengzhiwenhua.html
+# 河南师范大学公开课：走向大众的历史
+# http://v.163.com/special/cuvocw/dazhonglishi.html
+# 新疆农业大学公开课：新疆多民族文化
+# http://v.163.com/special/cuvocw/xinjiangduominzuwenhua.html
+# 密苏里州立大学公开课：1877年以来的美国史
+http://v.163.com/special/opencourse/us1877.html
+# 耶鲁大学公开课：弥尔顿
+http://v.163.com/special/milton/ 
+# 江苏师范大学公开课：孟子的文化精神
+# http://v.163.com/special/cuvocw/mengziwenhuajingshen.html
+# 耶鲁大学公开课：英国近代史
+http://v.163.com/special/opencourse/modernengland.html
+# 耶鲁大学开放课程：欧洲文明
+http://v.163.com/special/europeancivilization/
+# 东北师范大学公开课：古代世界文明漫谈
+# http://v.163.com/special/cuvocw/gudaishijiewenming.html 
+# 安徽大学公开课：徽州文化—中国传统文化的标本
+# http://v.163.com/special/cuvocw/huizhouwenhua.html
+# 国立台湾大学公开课：希伯来经典与世界文明
+http://v.163.com/special/ntu/xibolai.html
+# 伟谷州立大学公开课：亚伯拉罕·林肯两百周年纪念
+http://v.163.com/special/opencourse/abrahamlincoln.html
+# 长江大学公开课：楚文化漫谈
+# http://v.163.com/special/cuvocw/chuwenhuamantan.html
+# 合肥工业大学公开课：沈括和他的《梦溪笔谈》
+# http://v.163.com/special/cuvocw/shenkuomengxibitan.html 
+# 中国人民解放军南京政治学院公开课：中国人民解放军经典战例
+# http://v.163.com/special/cuvocw/renminjiefangjun.html
+# 清华大学公开课：中国古代礼仪文明
+# http://v.163.com/special/cuvocw/liyiwenming.html
+# 耶鲁大学公开课：美国独立战争
+http://v.163.com/special/opencourse/americanrevolution.html
+# 北京大学公开课：文化兴国-欧洲由衰及兴的转折点
+# http://v.163.com/special/cuvocw/wenhuaxingguo.html
+# 西北大学公开课：中国传统文化
+# http://v.163.com/special/cuvocw/chuantongwenhua.html
+# 国立台湾大学公开课：汉书
+http://v.163.com/special/ntu/hanshu.html
+# 武汉大学公开课：德国大学现代化
+# http://v.163.com/special/cuvocw/deguodaxue.html
+# 武汉大学公开课：西方历史的源头
+# http://v.163.com/special/cuvocw/xifanglishi.html 
+# 【TED】了解中国的崛起
+# http://v.163.com/movie/2011/1/B/U/M78ACIJUH_M8SI3ONBU.html

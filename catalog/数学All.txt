@@ -1,0 +1,120 @@
+# 南昌大学公开课：走近科学女王——数学
+# http://v.163.com/special/cuvocw/zoujinkexuenvwang.html
+# 斯坦福大学公开课：傅里叶变换及其应用
+http://v.163.com/special/opencourse/fouriertransforms.html
+# 麻省理工学院公开课：单变量微积分
+http://v.163.com/special/sp/singlevariablecalculus.html
+# 揭秘阿基米德失落的手抄本
+# http://v.163.com/movie/2013/8/F/C/M94TS37K6_M94TS9NFC.html
+# 可汗学院公开课：加州标准测试：几何
+http://v.163.com/special/Khan/california.html
+# 可汗学院公开课：微分方程 
+http://v.163.com/special/Khan/differential.html 
+# 可汗学院公开课：算术与代数预备课程：乘法与除法
+http://v.163.com/special/Khan/multiplication.html
+# 内蒙古大学公开课：数学分析选讲
+# http://v.163.com/special/cuvocw/shuxuefenxi.html
+# 可汗学院公开课：多边形、四边形和平行四边形
+http://v.163.com/special/Khan/polygon.html
+# 南开大学公开课：数学文化
+# http://v.163.com/special/cuvocw/shuxuewenhua.html
+# 可汗学院公开课：线性代数
+http://v.163.com/special/Khan/linearalgebra.html
+# 【TED】数学课需要改革
+# http://v.163.com/movie/2011/7/V/U/M7802AR2R_M7802V3VU.html
+# 可汗学院公开课：概率 
+http://v.163.com/special/Khan/probability.html
+# 神奇的斐波那契数列
+# http://v.163.com/movie/2014/2/N/O/M9HKRT25D_M9HNA0UNO.html
+# 可汗学院公开课：脑筋急转弯
+http://v.163.com/special/Khan/brainteasers.html
+# 可汗学院公开课：算术与代数预备课程：加法与减法
+http://v.163.com/special/Khan/additionandsubtraction.html
+# 麻省理工学院公开课：单变量微积分习题课
+http://v.163.com/special/opencourse/calculus.html 
+# 为什么我爱上了怪兽般的质数
+# http://v.163.com/movie/2014/3/E/O/M9KC53TBB_M9KEVBUEO.html
+# 北京航空航天大学公开课：数学大观
+# http://v.163.com/special/cuvocw/shuxuedaguan.html
+# 可汗学院公开课：绝对值
+http://v.163.com/special/Khan/value.html 
+# 拉筹伯大学：无处不在的代数学
+http://v.163.com/special/opencourse/latrobe.html 
+# 可汗学院公开课：SAT考试习题详解（数学部分）
+http://v.163.com/special/Khan/satpreparation.html
+# 中国石油大学（华东）公开课：魔方和数学建模
+# http://v.163.com/special/cuvocw/mofangheshuxue.html 
+# 可汗学院公开课：几何学-角
+http://v.163.com/special/Khan/angles.html
+# 麻省理工学院公开课：多变量微积分
+http://v.163.com/special/opencourse/multivariable.html
+# 可汗学院公开课：欧几里得几何学
+http://v.163.com/special/Khan/euclideangeometry.html
+# 为什么&#039;x&#039;代表未知数?
+# http://v.163.com/movie/2014/1/O/Q/M9G187QBK_M9G3IPDOQ.html
+# 可汗学院公开课：三角学
+http://v.163.com/special/Khan/trigonometry.html
+# 历史中的数学
+# http://v.163.com/movie/2014/1/J/6/M9G136O9T_M9G37SFJ6.html
+# 伦敦大学玛丽女王学院公开课：数学与魔术
+http://v.163.com/special/opencourse/magic.html
+# 图示值得传播的思想
+# http://v.163.com/movie/2014/3/C/9/M9KC61CT5_M9KGT5UC9.html
+# 麻省理工学院公开课：信号与系统：模拟与数字信号处理
+http://v.163.com/special/opencourse/signals.html
+# 可汗学院公开课：算术与代数预备课程：约数与倍数
+http://v.163.com/special/Khan/multiples.html
+# 可汗学院公开课：加州标准测试：代数I
+http://v.163.com/special/Khan/algebrai.html
+# 可汗学院公开课：统计学
+http://v.163.com/special/Khan/khstatistics.html
+# 哈里斯堡社区大学公开课：统计学入门
+http://v.163.com/special/opencourse/statistics.html 
+# 可汗学院公开课：三角形
+http://v.163.com/special/Khan/triangle.html
+# 统计学：数据图像化
+http://v.163.com/special/visualizingdata/
+# 可汗学院公开课：GMAT考试问题解答（数学）
+http://v.163.com/special/Khan/gmatproblemsolving.html
+# 国防科学技术大学公开课：数学建模——从自然走向理性之路
+# http://v.163.com/special/cuvocw/shuxuejianmo.html
+# 可汗学院公开课：算术与代数预备课程：计算顺序
+http://v.163.com/special/Khan/arithmetic.html
+# 上海交通大学公开课：数学之旅
+# http://v.163.com/special/cuvocw/shuxuezhilv.html
+# 可汗学院公开课：对数
+http://v.163.com/special/Khan/logarithms.html
+# 可汗学院公开课：基础几何
+http://v.163.com/special/Khan/introductory.html
+# 【TED】城市与企业中的奇妙数学
+# http://v.163.com/movie/2011/7/B/6/M84PVH4Q8_M84PVMVB6.html
+# 内蒙古大学公开课：行星运动与常微分方程
+# http://v.163.com/special/cuvocw/xingxingyundong.html
+# 可汗学院公开课：代数习题课
+http://v.163.com/special/Khan/algebraproblem.html
+# 可汗学院公开课：算术与代数预备课程：负数
+http://v.163.com/special/Khan/negative.html
+# 清华大学公开课：数学模型-现实世界的理性视角
+# http://v.163.com/special/cuvocw/lixingshijiao.html
+# 可汗学院公开课：基础代数
+http://v.163.com/special/Khan/algebra.html
+# 可汗学院公开课：微积分预备
+http://v.163.com/special/Khan/precalculus.html
+# 麻省理工公开课：线性代数
+http://v.163.com/special/opencourse/daishu.html
+# 可汗学院公开课：算术与代数预备课程：数的性质
+http://v.163.com/special/Khan/number.html
+# 麻省理工学院公开课：微积分重点
+http://v.163.com/special/opencourse/weijifen.html
+# 可汗学院公开课：GMAT考试（数据充分性）
+http://v.163.com/special/Khan/sufficiency.html
+# 麻省理工学院公开课：微分方程
+http://v.163.com/special/opencourse/equations.html
+# 可汗学院公开课：加州高中毕业考试习题讲解
+http://v.163.com/special/Khan/cahseeexample.html 
+# 可汗学院公开课：算术与代数预备课程：小数
+http://v.163.com/special/Khan/decimals.html
+# 可汗学院公开课：印度理工学院联合入学考试
+http://v.163.com/special/Khan/iitjee.html
+# 美国公共大学：几何学
+http://v.163.com/special/opencourse/geometry.html 

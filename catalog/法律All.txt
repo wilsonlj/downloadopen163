@@ -1,0 +1,82 @@
+# 复旦大学公开课：中国传统法律文化
+# http://v.163.com/special/cuvocw/falvwenhua.html
+# 黑龙江大学公开课：性别与法律
+# http://v.163.com/special/cuvocw/xingbiefalv.html
+# 北卡罗来纳州立大学公开课：PRT 406：体育法
+http://v.163.com/special/opencourse/sport.html 
+# 贵州大学公开课：走近法律
+# http://v.163.com/special/cuvocw/zoujinfalv.html
+# 中南财经政法大学公开课：知识创新、知识经济与知识产权
+# http://v.163.com/special/cuvocw/zhishichanquan.html
+# 西南政法大学公开课：中国法制史
+# http://v.163.com/special/cuvocw/zhongguofazhishi.html
+# 宁波大学公开课：经济生活中的法律
+# http://v.163.com/special/cuvocw/jingjifalv.html 
+# 中国人民公安大学公开课：犯罪心理解析
+# http://v.163.com/special/cuvocw/fanzuixinli.html
+# 中南财经政法大学公开课：生活中的财政学
+# http://v.163.com/special/cuvocw/shenghuocaizheng.html
+# 云南大学公开课：中国少数民族的生态智慧
+# http://v.163.com/special/cuvocw/shaoshuminzu.html
+# 西谷学院公开课：性侵犯调查
+http://v.163.com/special/opencourse/sexualassaultinvestigation.html
+# 河北医科大学公开课：法医学技术应用与司法公正
+# http://v.163.com/special/cuvocw/fayixue.html
+# 西南政法大学公开课：民事诉讼法
+# http://v.163.com/special/cuvocw/susongfa.html 
+# 南京医科大学公开课：医患沟通的共知共享
+# http://v.163.com/special/cuvocw/yihuangoutong.html
+# 电子科技大学公开课：法律与现代生活
+# http://v.163.com/special/cuvocw/falvyushenghuo.html
+# 斯坦福大学公开课：法律学
+http://v.163.com/special/opencourse/law.html
+# 四川大学公开课：公司法原理——公司何以有力量
+# http://v.163.com/special/cuvocw/gongsifa.html
+# 中国政法大学公开课：法律逻辑与方法
+# http://v.163.com/special/cuvocw/falvluojifangfa.html 
+# 上海交通大学公开课：法与社会
+# http://v.163.com/special/cuvocw/fayushehui.html
+# 利伯缇大学公开课：犯罪心理学
+http://v.163.com/special/opencourse/criminalpsychology.html
+# 东京大学：法与现代社会
+http://v.163.com/special/opencourse/tokyolaw.html
+# 西南财经大学公开课：企业领导的法律思维
+# http://v.163.com/special/cuvocw/qiyelingdaofalv.html
+# 华北电力大学公开课：生活中的纠纷与解决
+# http://v.163.com/special/cuvocw/jiufen.html
+# 诺丁汉大学公开课：60秒了解政治学名词
+http://v.163.com/special/opencourse/60politics.html
+# 民主为什么重要
+# http://v.163.com/movie/2013/3/0/7/M921CVHL9_M921D2K07.html
+# 外交学院公开课：当代中国外交
+# http://v.163.com/special/cuvocw/zhongguowaijiao.html 
+# 厦门大学公开课：诉讼与正义系列讲座
+# http://v.163.com/special/cuvocw/susongyuzhengyi.html
+# 中国人民公安大学公开课：公安学基础理论
+# http://v.163.com/special/cuvocw/gonganxue.html
+# BRCK，一个为非洲而造的连网方式
+# http://v.163.com/movie/2013/11/K/U/M9C2T8HGF_M9C2TBEKU.html
+# 剑桥大学公开课：公法讲座
+http://v.163.com/special/opencourse/publiclaw.html
+# 【TED】谈反对性奴隶的抗争
+# http://v.163.com/movie/2011/7/B/Q/M7AT9CFRF_M7ATBDDBQ.html
+# 上海大学公开课：商标纠纷矛与盾
+# http://v.163.com/special/cuvocw/shangbiaojiufen.html
+# 武汉大学公开课：生活中的物权
+# http://v.163.com/special/cuvocw/wuquan.html
+# 香港公开大学：中国的合同法
+http://v.163.com/special/opencourse/contractlaw.html
+# 亚利桑那大学公开课：知识产权
+http://v.163.com/special/opencourse/intellectualproperty.html
+# 芝加哥大学公开课：酷刑、法律与战争
+http://v.163.com/special/opencourse/torture.html
+# 宾夕法尼亚大学公开课：物权法
+http://v.163.com/special/opencourse/propertylaw.html
+# 华中农业大学公开课：民俗文化鉴赏
+# http://v.163.com/special/cuvocw/minsuwenhua.html
+# 大连海事大学公开课：海商法纵横谈——以历史和影视为经纬
+# http://v.163.com/special/cuvocw/haishangfa.html
+# 康奈尔大学公开课：法学讲座
+http://v.163.com/special/opencourse/cornelllaw.html 
+# 性交，毒品，HIV——让我们理智起来
+# http://v.163.com/movie/2011/7/L/G/M7AO8JE52_M7AO9DMLG.html
