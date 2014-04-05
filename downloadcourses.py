@@ -6,6 +6,13 @@ import time
 import platform
 import multiprocessing
 
+def update():
+	n = len(open('count.txt').read())
+	f = open('count.txt','a')
+	f.write('o')
+	f.close()
+	return n
+
 def download(fname, url):
 	if os.path.exists(fname):
 		print 'Exist',fname
@@ -21,7 +28,7 @@ def download(fname, url):
 			f.close()
 			end = time.time()
 			size = float(os.path.getsize(fname)) / 1024.0 / 1024.0
-			print 'Completed', fname, ' | Time: %.2f' %((end-start) / 60),'min Size: %.2f' %size,'MB Speed: %.2f' %(size / (end-start)),'MB/S'
+			print 'Completed', update(), '|', fname #,' | Time: %.2f' %((end-start) / 60),'min Size: %.2f' %size,'MB Speed: %.2f' %(size / (end-start)),'MB/S'
 			break
 		except:
 			print 'MP4 Error', fname, url
@@ -74,20 +81,11 @@ def analyze(url):
 
 if __name__ == '__main__':
 	# Set Courses List
-	'''
-	lists = open('Catalog/计算机List.txt').read().split('\n')
-	lists += open('Catalog/历史List.txt').read().split('\n')
-	lists += open('Catalog/经济List.txt').read().split('\n')
-	lists += open('Catalog/伦理List.txt').read().split('\n')
-	lists += open('Catalog/心理List.txt').read().split('\n')
-	lists += open('Catalog/哲学List.txt').read().split('\n')
-	lists += open('Catalog/社会List.txt').read().split('\n')
-	lists += open('Catalog/艺术List.txt').read().split('\n')
-	lists += open('Catalog/演讲List.txt').read().split('\n')
-	lists += open('Catalog/文学List.txt').read().split('\n')
-	lists += open('Catalog/管理List.txt').read().split('\n')
-	'''
-	lists = ['http://v.163.com/special/opencourse/cancerprevention.html']
+	lists = open('catalog/List.txt').read().split('\n')
+	#lists = ['http://v.163.com/special/opencourse/cancerprevention.html']
+
+	f = open('count.txt','w')
+	f.close()
 
 	#  Get Download URLs 
 	targets = {}
@@ -98,7 +96,7 @@ if __name__ == '__main__':
 		targets = dict(targets,**target)
 
 	# Start Concurrent Download
-	print
+	print 'Download',len(targets),'Lessons'
 	print 'Download Start.'
 	pool = multiprocessing.Pool(processes=10) # MultiProcessor
 	for fname in targets:
